@@ -1,0 +1,6 @@
+# Q&P 文件夹（题目与答案 PDF）不纳入版本管理
+Q&P/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
